@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'destructobeambb';
+    src: url("robotic-fonts/destructobeambb_reg.ttf");
+    src: url("robotic-fonts/destructobeambb_bold.ttf");
+    src: url("robotic-fonts/destructobeambb_bold.ttf");
+}
+@font-face {
+    font-family: 'HUMANOID';
+    src: url("static/fonts/robotic-fonts/HUMANOID.ttf");
+    src: url("static/fonts/robotic-fonts/HUMANOIDSTRAIGHT.ttf");
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: destructobeambb;
+  }
+h2{
+    font-family: HUMANOID;
+}
